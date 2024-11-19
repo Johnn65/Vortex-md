@@ -2,9 +2,9 @@ const sessionName = 'session';
 const antiforeign = process.env.ANTIFOREIGN || 'TRUE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 const autolike = process.env.AUTOLIKE_STATUS || 'TRUE';
-let botname = process.env.BOTNAME || 'Vortex-𝐀𝐈';
+let botname = process.env.BOTNAME || 'Vortex-AI';
 
-const owner = process.env.DEV || '2874 837 9216'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '28748379216'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -165,7 +165,7 @@ async function startHisoka() {
   const client = dreadedConnect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["CHATGPT - DREADED", "Safari", "5.1.7"],
+    browser: ["VORTEX", "Safari", "5.1.7"],
     auth: state,
 syncFullHistory: true,
   });
@@ -177,7 +177,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         ` \n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         ` ${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
 
                                  ) 
 
@@ -309,7 +309,7 @@ function _0x4f5a() {
         '9rOCBsS',
         '5528200DCrwWN',
         'group\x20rule',
-        'aven\x20Bot',
+        'ORTEX\x20BOT',
         'lry',
         'cBOYH',
         'ILuES',
@@ -318,7 +318,7 @@ function _0x4f5a() {
         'POJWT',
         'YbrwE',
         '\x20group\x27s\x20i',
-        'emoved.\x0a\x0aR',
+        'emoved.\x0a\x0a',
         'groupMetad',
         'group-part',
         'BXohV',
@@ -353,7 +353,7 @@ function _0x4f5a() {
         'WlXns',
         'tATwn',
         'GpWma',
-        '!\x202024®',
+        '!\x202024',
         'Knmng',
         'JWVsl',
         '\x20to\x20Admin!',
