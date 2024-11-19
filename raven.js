@@ -338,7 +338,7 @@ if (antilink === 'TRUE' && antilinkall === 'TRUE' && body.includes('http') && !O
         case "menu":
 		      await mp3d ()
 		      
-let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
+let cap = `╭═══𒋨〘 😳𝗩𝗼𝗿𝘁𝗲𝘅 𝗕𝗢𝗧😳 〙═─═𒋨࿌
 ┃✫╭═───────◇───────═╮
 ┃✬│ 𝗨𝘀𝗲𝗿 : ${m.pushName}
 ┃✫│ 𝗣𝗿𝗲𝗳𝗶𝘅 : ${prefix}
@@ -347,13 +347,13 @@ let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
 ┃✫│ 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗥𝗔𝗠 : 32𝗚𝗕 𝗼𝗳 64𝗚𝗕
 ┃✬│ 𝗗𝗮𝘁𝗮𝗕𝗮𝘀𝗲 : 𝗡𝗼𝗻𝗲
 ┃✫│●───●───●───●─●╮
-┃✬│  ▋▋VORTEX MD ▋▋
+┃✬│  ▋▋𝗩𝗢𝗥𝗧𝗘𝗫 𝗠𝗗 ▋▋
 ┃✫│●───●───●───●─●╯
 ╰══༄༄༄༄༄༄༄༄༄༄༄༄╯
 ●════〘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 〙═──═●
 ╭══───────◇───────═╮
 ┃✬│ 𝗩𝗶𝗱𝗲𝗼
-┃✫│ VORTEX
+┃✫│ 𝗩𝗼𝗿𝘁𝗲𝘅
 ┃✬│ 𝗣𝗹𝗮𝘆2
 ┃✫│ 𝗦𝗼𝗻𝗴
 ┃✬│ 𝗙𝗯𝗱𝗹
@@ -384,7 +384,7 @@ let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
 ╭══───────◇───────══╮
 ┃✬│ 𝗔𝗶
 ┃✫│ 𝗗𝗲𝗳𝗶𝗻𝗲
-┃✫│ VORTEX
+┃✫│ 𝗩𝗼𝗿𝘁𝗲𝘅
 ┃✬│ 𝗚𝗲𝗺𝗶𝗻𝗶
 ┃✯│ 𝗚𝗼𝗴𝗴𝗹𝗲
 ┃✫│ 𝗚𝗽𝘁
@@ -429,7 +429,7 @@ let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
 ●═══ 〘 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 〙 ═───═●
 ╭══───────◇───────══╮
 ┃✬│ 𝗢𝘄𝗻𝗲𝗿
-┃✫│ VORTEX
+┃✫│ 𝗩𝗼𝗿𝘁𝗲𝘅
 ┃✬│ 𝗦𝗰𝗿𝗶𝗽𝘁
 ┃✫│ 𝗠𝗲𝗻𝘂
 ┃✬│ 𝗟𝗶𝘀𝘁
@@ -489,7 +489,7 @@ let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
 ┃✫│ 𝗜𝗺𝗮𝗴𝗲
 ┃✬│ 𝗦𝘆𝘀𝘁𝗲𝗺
 ┃✯╰═───────◇───────═╯
-┃《»»»▍▍😳VORTEX BOT😳 ▍▍«««》
+┃《»»»▍▍😳𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗢𝗧Here's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 𝔽𝕠𝕟𝕥𝕤: https://go.luminarlab.com/NjbwN2😳 ▍▍«««》
 ╰═༄༄༄༄༄༄༄༄༄༄༄༄༄༄╯`;
 
 if (menu === 'VIDEO') {
@@ -590,7 +590,7 @@ break;
 			const { remini } = require('./lib/remini')
 			let media = await quoted.download()
 			let proses = await remini(media, "enhance")
-			client.sendMessage(m.chat, { image: proses, caption: '𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 VORTEX-BOT'}, { quoted: m })
+			client.sendMessage(m.chat, { image: proses, caption: '𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝗯𝘆 𝗩𝗢𝗥𝗧𝗘𝗫-𝗔𝗜'}, { quoted: m })
 			}
 			break;
 		      
@@ -675,7 +675,7 @@ const imageurl = `https://some-random-api.com/canvas/misc/tweet?displayname=${en
 
 
 
-await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 VORTEX-BOT`}, { quoted: m}) 
+await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧`}, { quoted: m}) 
 
 	}
 	 break;
@@ -758,7 +758,7 @@ await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼�
     "```𝗦𝗘𝗡𝗗𝗜𝗡𝗗 𝗟𝗢𝗚 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗦...```",
     "```𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟𝗬 𝗦𝗘𝗡𝗧 𝗗𝗔𝗧𝗔 a𝗻𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗱𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱```",
     "```𝗕𝗔𝗖𝗞𝗟𝗢𝗚𝗦 𝗖𝗟𝗘𝗔𝗥𝗘𝗗```"
-    "```Thank you for your coorperation🤖```"	    
+    "```𝗧𝗛𝗔𝗡𝗞 𝗬𝗢𝗨 𝗙𝗢𝗥 𝗬𝗢𝗨𝗥 𝗖𝗢𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗢𝗡🤖```"	    
     ];
 			      
     for (const line of steps) {
@@ -919,7 +919,7 @@ m.reply("An error occured.")
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻😳, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "VORTEX BOT",
+          body: "𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗢𝗫",
           thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
           sourceUrl: '',
           mediaType: 1,
@@ -932,7 +932,7 @@ m.reply("An error occured.")
 		      case "removebg": {
 		      try {
 
-const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 VORTEX-BOT";
+const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧";
 
 if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 
@@ -942,7 +942,7 @@ let fdr = await client.downloadAndSaveMediaMessage(m.quoted)
 
 
                     let fta = await uploadtoimgur(fdr)
-                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, Vortex 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
+                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, 𝗩𝗼𝗿𝘁𝗲𝘅 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
 
 const image = `https://api.dreaded.site/api/removebg?imageurl=${fta}`
 
@@ -1289,7 +1289,7 @@ if (!text) throw 'Provide a valid Bot Baileys Function to evaluate'
 	if (!isAdmin) throw admin;
 	if (!m.isGroup) throw group;
 			      
-        if (!text) return m.reply("provide number to be added in this format.\n\nadd 254114660061");
+        if (!text) return m.reply("provide number to be added in this format.\n\nadd 27748379216");
 
         const _participants = participants.map((user) => user.id);
 
@@ -1356,7 +1356,7 @@ const _0x409dbc=_0x1a95;(function(_0x13296f,_0x1d8f2b){const _0x935a90=_0x1a95,_
 break;
 		      case "system": 
   
-              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/YpHG3eT.jpeg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: -𝗕𝗢𝗧*\VORTEXn\n*𝐒𝐏𝐄𝐄𝐃: ${dreadedspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝗛𝗲𝗿𝗼𝗸𝘂*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝗥𝗮𝘃𝗲𝗻*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: VORTEX😳`}); 
+              client.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/YpHG3eT.jpeg' }, caption:`*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄: -𝗕𝗢𝗧*\𝗩𝗢𝗥𝗧𝗘𝗫n\n*𝐒𝐏𝐄𝐄𝐃: ${dreadedspeed.toFixed(4)} 𝐌𝐒*\n\n*𝐑𝐔𝐍𝐓𝐈𝐌𝐄: ${runtime(process.uptime())}*\n\n*𝐏𝐋𝐀𝐓𝐅𝐎𝐑𝐌: 𝗛𝗲𝗿𝗼𝗸𝘂*\n\n*𝐇𝐎𝐒𝐓𝐍𝐀𝐌𝐄: 𝗥𝗮𝘃𝗲𝗻*\n\n*𝐋𝐈𝐁𝐑𝐀𝐑𝐘: Baileys*\n\n𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑: 𝗩𝗢𝗥𝗧𝗘𝗫😳`}); 
  break;
 		      
 case "vcf": case "group-vcf": {
@@ -1375,7 +1375,7 @@ for (let a of gcdata.participants) {
 
 let cont = './contacts.vcf'
 
-await m.reply('𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, Vortex 𝗶𝘀 𝗖𝗼𝗺𝗽𝗶𝗹𝗶𝗻𝗴 '+gcdata.participants.length+' 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀 𝗶𝗻𝘁𝗼 𝗮 𝗩𝗰𝗳...');
+await m.reply('𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, 𝗩𝗼𝗿𝘁𝗲𝘅 𝗶𝘀 𝗖𝗼𝗺𝗽𝗶𝗹𝗶𝗻𝗴 '+gcdata.participants.length+' 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀 𝗶𝗻𝘁𝗼 𝗮 𝗩𝗰𝗳...');
 
 await fs.writeFileSync(cont, vcard.trim())
 
@@ -1703,7 +1703,7 @@ if (!data || data.status !== 200 || !data.data || !data.data.videoUrl) {
 
 const twtvid = data.data.videoUrl;
 
-await client.sendMessage(m.chat,{video : {url : twtvid },caption : `𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧`,gifPlayback : false },{quoted : m}) 
+await client.sendMessage(m.chat,{video : {url : twtvid },caption : `𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧`,gifPlayback : false },{quoted : m}) 
 
 } catch (e) {
 
@@ -1733,7 +1733,7 @@ if (!data || data.status !== 200 || !data.data || !data.data.videoUrl) {
 
 const twtvid = data.data.videoUrl;
 
-await client.sendMessage(m.chat,{video : {url : twtvid },caption : `𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧`,gifPlayback : false },{quoted : m}) 
+await client.sendMessage(m.chat,{video : {url : twtvid },caption : `𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫',Here's an 🅰🅿🅿 to type 𝓬𝓸𝓸𝓵 𝔽𝕠𝕟𝕥𝕤: https://go.luminarlab.com/NjbwN2-𝗕𝗢𝗧`,gifPlayback : false },{quoted : m}) 
 
 } catch (e) {
 
@@ -1774,7 +1774,7 @@ if (!text) {
             m.chat,
             {
                 video: { url: fbvid },
-                caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+                caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
                 gifPlayback: false,
             },
             { quoted: m }
@@ -1816,7 +1816,7 @@ if (!text) {
             m.chat,
             {
                 video: { url: tikvid },
-                caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+                caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
                 gifPlayback: false,
             },
             { quoted: m }
@@ -1864,7 +1864,7 @@ const axios = require("axios");
                         document: { url: outputPath },
                         mimetype: "audio/mp3",
                         fileName: outputFileName,
-			caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+			caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
                     },
                     { quoted: m }
                 );
@@ -1882,7 +1882,7 @@ break;
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/416c3ae0cfe59be8db011.jpg` }, caption: 
-`👋🏻 Hello *${pushname}*,You can deploy VORTEX-𝗕𝗢𝗧 using the GitHub link below🦄\n\nFork and give us a star✨.\n\n https://github.com/HunterNick2/RAVEN-MD\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@sojabwoy899899/Pairing-Vortex\n\nAfter uploading the document connect your repo with this link and deploy\nhttps://dashboard.heroku.com/new-app?template=\n\nEnjoy and have fun with VORTEX 𝗕𝗢𝗧 😳!\n\n𝗠𝗮𝗱𝗲 𝗼𝗻 𝗲𝗮𝗿𝘁𝗵 𝗯𝘆 𝗛𝘂𝗺𝗮𝗻𝘀!` });
+`👋🏻 Hello *${pushname}*,You can deploy 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧 using the GitHub link below🦄\n\nFork and give us a star✨.\n\n https://github.com/Johnn65/VORTEX-MD\n\nLink with your whatsapp using pairing link below\nhttps://replit.com/@sojabwoy899899/Pairing-Vortex\n\nAfter uploading the document connect your repo with this link and deploy\nhttps://dashboard.heroku.com/new-app?template=\n\nEnjoy and have fun with 𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗢𝗧 😳!\n\n𝗠𝗮𝗱𝗲 𝗼𝗻 𝗲𝗮𝗿𝘁𝗵 𝗯𝘆 𝗛𝘂𝗺𝗮𝗻𝘀!` });
 
    break;
                                                   
@@ -2008,7 +2008,7 @@ break;
           case "leave": { 
                  if (!Owner) throw NotOwner;
 		 if (!m.isGroup) throw group;
- await client.sendMessage(m.chat, { text : '𝗚𝗼𝗼𝗱𝗯𝘆𝗲 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲👋. Vortex-𝗔𝗶 𝗶𝘀 𝗟𝗲𝗮𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗻𝗼𝘄...' , mentions: participants.map(a => a.id)}, { quoted : m }); 
+ await client.sendMessage(m.chat, { text : '𝗚𝗼𝗼𝗱𝗯𝘆𝗲 𝗲𝘃𝗲𝗿𝘆𝗼𝗻𝗲👋. 𝗩𝗢𝗥𝗧𝗘𝗫-𝗔𝗶 𝗶𝘀 𝗟𝗲𝗮𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 𝗚𝗿𝗼𝘂𝗽 𝗻𝗼𝘄...' , mentions: participants.map(a => a.id)}, { quoted : m }); 
                  await client.groupLeave(m.chat); 
   
              } 
@@ -2129,11 +2129,11 @@ if (m.quoted.message) {
             if (/video/.test(type)) {
 
 
-               await client.sendMessage(m.chat, { video: media, caption: `Retrieved by Raven! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
+               await client.sendMessage(m.chat, { video: media, caption: `Retrieved by Vortex! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
 
             } else if (/image/.test(type)) {
 
-await client.sendMessage(m.chat, { image: media, caption: `Retrieved by Raven! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
+await client.sendMessage(m.chat, { image: media, caption: `Retrieved by Vortex! ♊\nOriginal caption: ${q.caption}`}, { quoted: m})
 
             }
          } else m.reply("That is not a viewonce media. . .")
@@ -2296,7 +2296,7 @@ let name = data.result.title;
                         document: { url: outputPath },
                         mimetype: "audio/mp3",
                         fileName: outputFileName,
-			caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+			caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
                     },
                     { quoted: m }
                 );
@@ -2329,13 +2329,13 @@ if (!text) return m.reply("𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗮 𝘃𝗮𝗹𝗶�
 await client.sendMessage(m.chat, {
   video: {url: data.result.downloadLink},
 mimetype: "video/mp4",
-caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
  fileName: `${data.result.title}.mp4`}, { quoted: m });
 
 await client.sendMessage(m.chat, {
  document: {url: data.result.downloadLink},
 mimetype: "video/mp4",
-caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
  fileName: `${data.result.title}.mp4` }, { quoted: m });
 
 
@@ -2360,13 +2360,13 @@ let search = await yts(text);
 await client.sendMessage(m.chat, {
   video: {url: data.result.downloadLink},
 mimetype: "video/mp4",
-caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
  fileName: `${data.result.title}.mp4`}, { quoted: m });
 
 await client.sendMessage(m.chat, {
  document: {url: data.result.downloadLink},
 mimetype: "video/mp4",
-caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 VORTEX-𝗕𝗢𝗧",
+caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧",
  fileName: `${search.all[0].title}.mp4` }, { quoted: m });
 
 
@@ -2390,13 +2390,13 @@ break;
  } 
  break;
 		      case 'runtime':
-		let raven = `VORTEX 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 ${runtime(process.uptime())}`
+		let raven = `𝗩𝗢𝗥𝗧𝗘𝗫 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 ${runtime(process.uptime())}`
                 client.sendMessage(m.chat, {
                     text: vortex,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: 'VORTEX-𝗕𝗢𝗧',
+                            title: '𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧',
                             body: 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
                             thumbnailUrl: 'https://i.imgur.com/YpHG3eT.jpeg',
                             sourceUrl: 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
@@ -2506,7 +2506,7 @@ if (!text) return m.reply("No emojis provided ? ")
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗥𝗮𝘃𝗲𝗻-𝗕𝗼𝘁`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗼𝘁`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -2556,7 +2556,7 @@ case "movie":
              } 
  break;
  
-      case "nick": case "owner": 
+      case "Vortex": case "owner": 
  client.sendMessage(m.chat, { video: { url: 'https://i.imgur.com/RNCiPJR.mp4' }, caption: `𝗛𝗲𝗿𝗲 𝗶𝘀 𝗠𝘆 𝗢𝘄𝗻𝗲𝗿 𝗖𝗼𝗻𝘁𝗮𝗰𝘁😳 https://wa.me/message/YNDA2RFTE35LB1 𝗢𝗻𝗹𝘆 𝗗𝗺 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝗮𝘀𝗼𝗻😳` }, {quoted: m}); 
   
  break;
@@ -2593,7 +2593,7 @@ case "movie":
          let res = groups.map(v => v.id) 
          reply(` Broadcasting in ${res.length} Group Chat, in ${res.length * 1.5} seconds`) 
          for (let i of res) { 
-             let txt = `VOORTEX-𝗕𝗢𝗧 𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
+             let txt = `𝗩𝗢𝗥𝗧𝗘𝗫-𝗕𝗢𝗧 𝗕𝗥𝗢𝗔𝗗𝗖𝗔𝗦𝗧 >\n\n🀄 Message: ${text}\n\nAuthor: ${pushname}` 
              await client.sendMessage(i, { 
                  image: { 
                      url: "https://telegra.ph/file/416c3ae0cfe59be8db011.jpg" 
