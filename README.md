@@ -25,7 +25,7 @@
 
 <p align="center">
 
-<a href="https://api.whatsapp.com/send?phone=2774 837 9216&text=Hello+vortex"><img src="https://img.shields.io/badge/Contact vortex-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send?phone=27748379216&text=Hello+vortex"><img src="https://img.shields.io/badge/Contact vortex-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
