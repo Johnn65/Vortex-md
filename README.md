@@ -1,4 +1,4 @@
-# VORTEX-𝗕𝗢𝗧
+# VORTEX-BOT
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+😳vortex-MD😳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+John;PUBLIC+RELEASED; ...;TEAM vortex-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
@@ -7,7 +7,7 @@
 <img src="https://i.imgur.com/3aiFQlC.jpeg" width="350" height="350"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=vortex+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=VORTEX+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-vortex-blue.svg?style=for-the-badge&logo=github"></a>
