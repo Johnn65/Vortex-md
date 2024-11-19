@@ -25,7 +25,7 @@ module.exports = raven = async (client, m, chatUpdate, store) => {
     var body =
       m.mtype === "conversation"
         ? m.message.conversation
-        : m.mtype == "imageMessage"
+        : m.mtype == "**imageMessage**"
        ? m.message.imageMessage.caption
         : m.mtype == "videoMessage"
         ? m.message.videoMessage.caption
