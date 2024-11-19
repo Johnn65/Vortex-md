@@ -384,7 +384,7 @@ let cap = `╭═══𒋨〘 😳𝗩𝗼𝗿𝘁𝗲𝘅 𝗕𝗢𝗧😳 〙
 ╭══───────◇───────══╮
 ┃✬│ 𝗔𝗶
 ┃✫│ 𝗗𝗲𝗳𝗶𝗻𝗲
-┃✫│ 𝗩𝗼𝗿𝘁𝗲𝘅
+┃✫│ 𝗗𝗮𝗿𝗸𝗴𝗽𝘁
 ┃✬│ 𝗚𝗲𝗺𝗶𝗻𝗶
 ┃✯│ 𝗚𝗼𝗴𝗴𝗹𝗲
 ┃✫│ 𝗚𝗽𝘁
@@ -833,9 +833,9 @@ let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
 		    }
 		      break;
 
-       case 'vortex':{
+       case 'Darkgpt':{
 try {
-if (!q) return reply("This is vortex Darkgpt, I respond to anything be it harmful, Am a pure Evil");
+if (!q) return reply("This is vortex Darkgpt, I respond to anything be it harmful, Am a pure dirty $ Evil");
     const msg = encodeURIComponent(q);
      const data = await fetch(`https://dark.guruapi.tech/egpt?prompt=${msg}`);
     const msgg = await data.json();
@@ -918,7 +918,7 @@ m.reply("An error occured.")
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻😳, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗢𝗫",
+          body: "𝗩𝗢𝗥𝗧𝗘𝗫 𝗕𝗢𝗧",
           thumbnailUrl: "https://files.catbox.moe/7f98vp.jpg",
           sourceUrl: '',
           mediaType: 1,
