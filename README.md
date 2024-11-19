@@ -1,3 +1,4 @@
+<div align="center">
 # VORTEX-𝗕𝗢𝗧
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS  IS+😳vortex-MD😳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+John;PUBLIC+RELEASED; ...;TEAM vortex-𝙼𝙳." alt="Typing SVG" /></a>
@@ -76,5 +77,5 @@ Modifying the bot structure is at your own risk. We won't offer technical suppor
 
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-GPT-AI/blob/main/LICENSE)
 
-Copyright (c) 2024 RAVEN-MD
+Copyright (c) 2025 Vortex-MD
 
