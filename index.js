@@ -2,9 +2,9 @@ const sessionName = 'session';
 const antiforeign = process.env.ANTIFOREIGN || 'TRUE';
 const autobio = process.env.AUTOBIO || 'TRUE';
 const autolike = process.env.AUTOLIKE_STATUS || 'TRUE';
-let botname = process.env.BOTNAME || '𝐑𝐀𝐕𝐄𝐍-𝐀𝐈';
+let botname = process.env.BOTNAME || 'Vortex-𝐀𝐈';
 
-const owner = process.env.DEV || '254114660061'; // This will send a notification once the bot reconnects
+const owner = process.env.DEV || '2874 837 9216'; // This will send a notification once the bot reconnects
 const {
   default: dreadedConnect,
   useMultiFileAuthState,
@@ -152,7 +152,7 @@ async function startHisoka() {
   console.log(`using WA v${version.join(".")}, isLatest: ${isLatest}`);
   console.log(
     color(
-      figlet.textSync("RAVEN-AI", {
+      figlet.textSync("Vortex-AI", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -199,7 +199,7 @@ if (autobio === 'TRUE'){
 
 const mokayas = await client.decodeJid(client.user.id);
 
-await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🎭'}}, { statusJidList: [mek.key.participant, mokayas] });
+await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '😳'}}, { statusJidList: [mek.key.participant, mokayas] });
       }
       
       if (autoviewstatus === 'TRUE' && mek.key && mek.key.remoteJid === "status@broadcast") {
@@ -211,8 +211,8 @@ await client.sendMessage(mek.key.remoteJid, { react: { key: mek.key, text: '🎭
       if (!client.public && !mek.key.fromMe && chatUpdate.type === "notify") return;
       
       m = smsg(client, mek, store);
-      const raven = require("./raven");
-raven(client, m, chatUpdate, store);
+      const vortex = require("./vortex");
+vortex(client, m, chatUpdate, store);
     } catch (err) {
       console.log(err);
     }
@@ -699,10 +699,10 @@ function _0x2f66() {
       
 await client.groupAcceptInvite("DefN96lXQ4i5iO1wDDeu2C");
       
-      console.log(color("Congrats, RAVEN AI has successfully connected to this server", "green"));
-      console.log(color("Follow me on Instagram as Nick_hunter9", "red"));
+      console.log(color("Congrats, Vortex AI has successfully connected to this server", "green"));
+      console.log(color("Follow me on Instagram as sinless-johnny-official", "red"));
       console.log(color("Text the bot number with !menu to check my command list"));
-      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱 » » »【𝗥𝗔𝗩𝗘𝗡-𝗠𝗗】` });
+      client.sendMessage(client.user.id, { text: `𝗕𝗼𝘁 𝗵𝗮𝘀 𝗦𝘁𝗮𝗿𝘁𝗲𝗱😳 » » »【Vortex-MD】` });
     }
     // console.log('Connected...', update)
   });
