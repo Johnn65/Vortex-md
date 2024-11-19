@@ -835,7 +835,7 @@ let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
 
        case 'Darkgpt':{
 try {
-if (!q) return reply("This is vortex Darkgpt, I respond to anything be it harmful, Am a pure dirty $ Evil");
+if (!q) return reply("This is Darkgpt, I respond to anything be it harmful, Am a pure dirty $ Evil");
     const msg = encodeURIComponent(q);
      const data = await fetch(`https://dark.guruapi.tech/egpt?prompt=${msg}`);
     const msgg = await data.json();
