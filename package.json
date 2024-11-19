@@ -1,5 +1,5 @@
 { 
-   "name": "RAVEN-AI", 
+   "name": "VORTEX-AI", 
    "version": "2.0.0", 
    "description": "WhatsApp Multi Device Bot", 
    "main": "index.js", 
@@ -19,7 +19,7 @@
      "whatsapp-multi-device" 
    ], 
    "base": "https://github.com/DikaArdnt/Hisoka-Morou", 
-   "author": "Nick-Hunter", 
+   "author": "Johnn65", 
    "license": "MIT", 
    "dependencies": { 
         "@whiskeysockets/baileys": "^6.7.9",
@@ -81,10 +81,10 @@
    }, 
    "repository": { 
      "type": "git", 
-     "url": "git+https://github.com/HunterNick2/RAVEN-MD.git" 
+     "url": "git+https://github.com/Johnn65/VORTEX-MD.git" 
    }, 
    "bugs": { 
-     "url": "https://github.com/HunterNick2/RAVEN-MD/issues" 
+     "url": "https://github.com/Johnn65/VORTEX-MD/issues" 
    }, 
-   "homepage": "https://github.com/HunterNick2/RAVEN-MD#readme" 
+   "homepage": "https://github.com/Johnn65/VORTEX-MD#readme" 
    }
