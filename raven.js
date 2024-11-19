@@ -103,7 +103,7 @@ const groupName = m.isGroup && groupMetadata ? await groupMetadata.subject : "";
      const isAdmin = m.isGroup ? groupAdmin.includes(m.sender) : false;
 const admin = process.env.ADMIN_MSG || '𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗿𝗲𝘀𝗲𝗿𝘃𝗲𝗱 𝗳𝗼𝗿 𝗔𝗱𝗺𝗶𝗻𝘀!';
     const group = process.env.GROUP_ONLY_MSG || '𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗺𝗮𝗱𝗲 𝗳𝗼𝗿 𝗚𝗿𝗼𝘂𝗽𝘀!';
-    const botAdmin = process.env.BOT_ADMIN_MSG || '𝗜 𝗻𝗲𝗲𝗱 𝗔𝗱𝗺𝗶𝗻 𝗽𝗿𝗲𝘃𝗶𝗹𝗲𝗱𝗴𝗲𝘀!'
+    const botAdmin = process.env.BOT_ADMIN_MSG || '𝗜 𝗻𝗲𝗲𝗱 𝗔𝗱𝗺𝗶𝗻 𝗽𝗿𝗲𝘃𝗶𝗹𝗲𝗱𝗴𝗲𝘀😳!'
     const NotOwner = process.env.NOT_OWNER_MSG || '𝗖𝗼𝗺𝗺𝗮𝗻𝗱 𝗺𝗮𝗱𝗲 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗼𝘄𝗻𝗲𝗿!';
 const wapresence = process.env.WA_PRESENCE || 'recording';
 const antilink = process.env.ANTILINK || 'TRUE';
@@ -489,7 +489,7 @@ let cap = `╭═══𒋨〘 😳VORTEX BOT😳 〙═─═𒋨࿌
 ┃✫│ 𝗜𝗺𝗮𝗴𝗲
 ┃✬│ 𝗦𝘆𝘀𝘁𝗲𝗺
 ┃✯╰═───────◇───────═╯
-┃《»»»▍▍VORTEX BOT  ▍▍«««》
+┃《»»»▍▍😳VORTEX BOT😳 ▍▍«««》
 ╰═༄༄༄༄༄༄༄༄༄༄༄༄༄༄╯`;
 
 if (menu === 'VIDEO') {
@@ -758,6 +758,7 @@ await client.sendMessage(m.chat, { image: { url: imageurl}, caption: `𝗖𝗼�
     "```𝗦𝗘𝗡𝗗𝗜𝗡𝗗 𝗟𝗢𝗚 𝗗𝗢𝗖𝗨𝗠𝗘𝗡𝗧𝗦...```",
     "```𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟𝗬 𝗦𝗘𝗡𝗧 𝗗𝗔𝗧𝗔 a𝗻𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗱𝗶𝘀𝗰𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱```",
     "```𝗕𝗔𝗖𝗞𝗟𝗢𝗚𝗦 𝗖𝗟𝗘𝗔𝗥𝗘𝗗```"
+    "```Thank you for your coorperation🤖```"	    
     ];
 			      
     for (const line of steps) {
