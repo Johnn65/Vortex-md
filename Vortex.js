@@ -261,11 +261,11 @@ let { key } = await client.sendMessage(m.chat, {audio: fs.readFileSync('./menu.m
 	  
 async function loading () {
 var lod = [
-"🖤",
+"🤦‍♂️",
 "🤬",
-"❤",	
+"😛",	
 	"😡",
-   "💙",
+   "🤨",
 	"😒",
 	"😳",
 "【𝗣𝗶𝗻𝗴𝗶𝗻𝗴 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲】"	
