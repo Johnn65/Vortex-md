@@ -384,7 +384,7 @@ let cap = `╭═══𒋨〘 😳𝗩𝗼𝗿𝘁𝗲𝘅 𝗕𝗢𝗧😳 〙
 ╭══───────◇───────══╮
 ┃✬│ 𝗔𝗶
 ┃✫│ 𝗗𝗲𝗳𝗶𝗻𝗲
-┃✫│ 𝗗𝗮𝗿𝗸𝗴𝗽𝘁
+┃✫│ Vortex
 ┃✬│ 𝗚𝗲𝗺𝗶𝗻𝗶
 ┃✯│ 𝗚𝗼𝗴𝗴𝗹𝗲
 ┃✫│ 𝗚𝗽𝘁
@@ -833,9 +833,9 @@ let regex1 = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
 		    }
 		      break;
 
-       case 'Darkgpt':{
+       case 'Vortex':{
 try {
-if (!q) return reply("This is Darkgpt, I respond to anything be it harmful, Am a pure dirty $ Evil");
+if (!q) return reply("This is Vortex Darkgpt, I respond to anything be it harmful, Am a pure dirty $ Evil");
     const msg = encodeURIComponent(q);
      const data = await fetch(`https://dark.guruapi.tech/egpt?prompt=${msg}`);
     const msgg = await data.json();
