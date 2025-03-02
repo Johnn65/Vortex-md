@@ -15,13 +15,13 @@ const acrcloud = require("acrcloud");
 // const node = require("node-fetch-commonjs");
 const ytdl = require("ytdl-core");
  const Client = new Genius.Client("jKTbbU-6X2B9yWWl-KOm7Mh3_Z6hQsgE4mmvwV3P3Qe7oNa9-hsrLxQV5l5FiAZO"); // Scrapes if no key is provided
-const { fetchUrl, isUrl, processTime } = require("./lib/ravenfunc");
-const { TelegraPh, UploadFileUgu, webp2mp4File, floNime } = require('./lib/ravenupload');
+const { fetchUrl, isUrl, processTime } = require("./lib/dreadfunc");
+const { TelegraPh, UploadFileUgu, webp2mp4File, floNime } = require('./lib/dreadupload');
 const { Configuration, OpenAI } = require("openai");
 let setting = process.env.AI;
-const { smsg, formatp, tanggal, formatDate, getTime,  sleep, generateProfilePicture, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/ravenfunc');
+const { smsg, formatp, tanggal, formatDate, getTime,  sleep, generateProfilePicture, clockString, fetchJson, getBuffer, jsonformat, format, parseMention, getRandom } = require('./lib/dreadfunc');
 const { exec, spawn, execSync } = require("child_process");
-module.exports = raven = async (client, m, chatUpdate, store) => {
+module.exports = Vortex = async (client, m, chatUpdate, store) => {
   try {
     var body =
       m.mtype === "conversation"
