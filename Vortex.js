@@ -1930,13 +1930,13 @@ m.reply("An error occured.")
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "Vortex",
+        fileName: "𝘃𝗼𝗿𝘁𝗲𝘅",
 
         contextInfo: {
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻👋, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "vortex 𝗕𝗢𝗧",
+          body: "𝘃𝗼𝗿𝘁𝗲𝘅 𝗕𝗢𝗧",
           thumbnailUrl: "https://i.imgur.com/oITJs6Z.jpeg",
           sourceUrl: '',
           mediaType: 1,
@@ -1949,7 +1949,7 @@ m.reply("An error occured.")
 		      case "removebg": {
 		      try {
 
-const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧";
+const cap = "𝗘𝗱𝗶𝘁𝗲𝗱 𝗯𝘆 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗢𝗧";
 
 if (!m.quoted) return m.reply("Send the image then tag it with the command.");
 
@@ -1959,7 +1959,7 @@ let fdr = await client.downloadAndSaveMediaMessage(m.quoted)
 
 
                     let fta = await uploadtoimgur(fdr)
-                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, 𝗥𝗮𝘃𝗲𝗻 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
+                    m.reply("𝗔 𝗺𝗼𝗺𝗲𝗻𝘁, 𝘃𝗼𝗿𝘁𝗲𝘅 𝗶𝘀 𝗲𝗿𝗮𝘀𝗶𝗻𝗴 𝘁𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱. . .");
 
 const image = `https://api.dreaded.site/api/removebg?imageurl=${fta}`
 
