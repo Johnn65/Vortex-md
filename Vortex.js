@@ -1936,7 +1936,7 @@ m.reply("An error occured.")
           mentionedJid: [m.sender],
           externalAdReply: {
           title: "𝗛𝗶 𝗛𝘂𝗺𝗮𝗻👋, 𝗜 𝗮𝗺 𝗔𝗹𝗶𝘃𝗲 𝗻𝗼𝘄",
-          body: "VORTEX 𝗕𝗢𝗧",
+          body: "vortex 𝗕𝗢𝗧",
           thumbnailUrl: "https://i.imgur.com/oITJs6Z.jpeg",
           sourceUrl: '',
           mediaType: 1,
