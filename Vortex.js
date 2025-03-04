@@ -460,7 +460,7 @@ let cap = `𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲😁, ${getGreeting()}\n\n╭══�
 ●═══  〘 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 〙 ═───═●
 ╭══───────◇───────══╮
 ┃✬│ 𝗢𝘄𝗻𝗲𝗿
-┃✫│ 𝗡𝗶𝗰𝗸
+┃✫│ 𝘃𝗼𝗿𝘁𝗲𝘅
 ┃✬│ 𝗦𝗰𝗿𝗶𝗽𝘁
 ┃✫│ 𝗠𝗲𝗻𝘂
 ┃✬│ 𝗟𝗶𝘀𝘁
@@ -3506,14 +3506,14 @@ const ytSearch = require('yt-search');
     const messagePayload = {
       document: { url: downloadUrl },
       mimetype: 'video/mpeg',
-      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗢𝗧",
       fileName: `${videoDetails.title}.mp3`,
     };
 
 	const messagePaylod = {
       video: { url: downloadUrl },
       mimetype: 'video/mp4',
-      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧",
+      caption: "𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗 𝗕𝗬 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗢𝗧",
       fileName: `${videoDetails.title}.mp4`,
     };
 
@@ -3540,13 +3540,13 @@ break;
  } 
  break;
 		      case 'runtime':
-		let raven = `𝗥𝗮𝘃𝗲𝗻 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 ${runtime(process.uptime())}`
+		let raven = `𝘃𝗼𝗿𝘁𝗲𝘅 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝘂𝗻𝗻𝗶𝗻𝗴 𝘀𝗶𝗻𝗰𝗲 ${runtime(process.uptime())}`
                 client.sendMessage(m.chat, {
                     text: raven,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: '𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧',
+                            title: '𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗢𝗧',
                             body: 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
                             thumbnailUrl: 'https://i.imgur.com/YpHG3eT.jpeg',
                             sourceUrl: 'https://chat.whatsapp.com/DefN96lXQ4i5iO1wDDeu2C',
@@ -3685,7 +3685,7 @@ if (!text) return m.reply("No emojis provided ? ")
    fs.unlinkSync(media); 
    if (err) throw err 
    let buffer = fs.readFileSync(mokaya); 
-   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝗥𝗮𝘃𝗲𝗻-𝗕𝗼𝘁`}, { quoted: m }) 
+   client.sendMessage(m.chat, { image: buffer, caption: `𝗖𝗼𝗻𝘃𝗲𝗿𝘁𝗲𝗱 𝗯𝘆 𝘃𝗼𝗿𝘁𝗲𝘅-𝗕𝗼𝘁`}, { quoted: m }) 
    fs.unlinkSync(mokaya); 
     }); 
     } 
@@ -3735,7 +3735,7 @@ case "movie":
              } 
  break;
  
-      case "nick": case "owner": 
+      case "vortex": case "owner": 
 		      const daddy = ['https://i.imgur.com/ayWSYMA.mp4',
 				    'https://i.imgur.com/2I5jIi0.mp4',
 				    'https://i.imgur.com/BS3Ip4M.mp4',
@@ -3757,7 +3757,7 @@ case "movie":
 				    ];
 		      const wife = daddy[Math.floor(Math.random() * daddy.length)];
 		      
- client.sendMessage(m.chat, { video: { url: wife }, caption: `𝗛𝗲𝗿𝗲 𝗶𝘀 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 💠 https://wa.me/message/YNDA2RFTE35LB1 💠 𝗢𝗻𝗹𝘆 𝗗𝗺 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝗮𝘀𝗼𝗻😁` }, {quoted: m}); 
+ client.sendMessage(m.chat, { video: { url: wife }, caption: `𝗛𝗲𝗿𝗲 𝗶𝘀 𝗺𝘆 𝗢𝘄𝗻𝗲𝗿 💠 https://wa.me/qr/ZBFGLX3RB24NL1 💠 𝗢𝗻𝗹𝘆 𝗗𝗺 𝘄𝗶𝘁𝗵 𝗮 𝗿𝗲𝗮𝘀𝗼𝗻😁` }, {quoted: m}); 
   
  break;
        
